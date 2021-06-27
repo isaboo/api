@@ -1,0 +1,12 @@
+html, body {
+  width: 100%;
+  max-width: 100%;
+  margin: 0px;
+  padding 0px;
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
+}
+code {
+  font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+}
